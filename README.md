@@ -1,4 +1,4 @@
-# GenAI_experiments
+# LLM_experiments
 
 This repository represents a collection of experiments with different LLMs, SLMs and language-vision models. Most of the models are implemented using the HuggingFace Transformers library.
 
